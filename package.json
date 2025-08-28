@@ -1,0 +1,24 @@
+{
+  "name": "ws2-ecommerce-project-g6",
+  "version": "1.0.0",
+  "description": "I am James Peter Vengaso Gonzaga a third year computer science student of the University of Baguio. If you are reading this you are probably curious what I did int his course in particular (WEBSYS2) well just find it yourself",
+  "main": "index.js",
+  "type" : "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve" : "node server.js",
+    "dev" : "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "dotenv": "^17.2.1",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "mongodb": "^6.19.0",
+    "mongoose": "^8.18.0",
+    "nodemon": "^3.1.10"
+  }
+}
